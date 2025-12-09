@@ -1,1 +1,2 @@
-alert('xin chao');
+alert("xin chao");
+console.log("xinchao log");
